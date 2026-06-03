@@ -1,0 +1,10 @@
+{
+  "adapters": [
+    {
+      "id": "p_6a208cedbe28c0b5fdb09fe2_hiwonder_rrc_board",
+      "name": "hiwonder_rrc_board",
+      "params": {}
+    }
+  ],
+  "drivers": []
+}
